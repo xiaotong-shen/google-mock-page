@@ -1,0 +1,4 @@
+recap of things learnt, margin, width, rem, em, percentage width, 
+need
+button sizing and making curves etc
+input with button
